@@ -1,3 +1,4 @@
+import pokedex from "./pokedex";
 
 const imgBase = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/`
 
