@@ -1,6 +1,8 @@
 # Pokedex Project
 Practice with React components and properties
 
+__Check it out at:__ https://dlmedeiro.github.io/pokedex/
+
 ## Launching the application
 
 ### `npm start`
